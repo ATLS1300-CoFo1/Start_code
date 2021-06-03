@@ -25,7 +25,6 @@ panel.setworldcoordinates(0, w, h, 0)
 
 #======= DEFINE VARIABLES BELOW ======
 
-turtle = Turtle()  # rename this turtle!
 
 
 
@@ -35,6 +34,6 @@ turtle = Turtle()  # rename this turtle!
 
 
 
+#======= DO NOT ADD CODE BELOW THIS LINE ======
 
-#======= DO NOT ADD OR CHANGE CODE BELOW HERE ======
-done()
+#done() # UNCOMMENT LINE BELOW BEFORE SUBMITTING 
