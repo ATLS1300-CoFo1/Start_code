@@ -23,4 +23,11 @@ panel.setup(width=w, height=h) #600 x 600 is a decent size to work on.
 #Don't change this line (puts (0,0) at upper left corner)
 panel.setworldcoordinates(0, w, h, 0)
 
-#=======Add your code here======
+#======= DEFINE VARIABLES BELOW ======
+
+
+
+
+
+
+#======= PERFORM TASKS BELOW ======
